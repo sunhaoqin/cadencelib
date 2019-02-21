@@ -1,0 +1,8 @@
+*.*
+!*.pad
+!*.psm
+!*.ssm
+!*.dra
+!*.fsm
+!*.OLB
+!.gitignore
